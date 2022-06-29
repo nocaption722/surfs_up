@@ -17,5 +17,7 @@ We then expanded our results to look at all of the observations that were record
 The average temperature is in the 70's.
 Both June and December showed similar min/max and average temperatures.
 The assumption is that the temperature does not have dramatic fluctuations throughout the year.!
+
+
 [june temps](https://user-images.githubusercontent.com/100978038/176554535-3b306d4e-008e-4d41-ba5d-3b99dd0064dc.PNG)
 ![december temps](https://user-images.githubusercontent.com/100978038/176554541-b29de1bd-38f0-4e54-ad67-1cd0c8d89002.PNG)
